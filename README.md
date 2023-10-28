@@ -8,11 +8,6 @@ In this data analysis project, using the dataset on the Billionaires listed in F
 
 ![dashboard](https://github.com/VincentOdiaka/Forbes-Billionaires-Insight/assets/136932478/cd0f0061-5a9d-4a72-8081-63b75d916835)
 
-![Net Worth By Age Range](https://github.com/VincentOdiaka/Forbes-Billionaires-Insight/assets/136932478/5c522708-ed73-4b00-8954-ebab08d16c88)
-
-![Net Worth By Continent](https://github.com/VincentOdiaka/Forbes-Billionaires-Insight/assets/136932478/2c70e1ac-68e6-4dba-8de0-2af5a120f547)
-
-
 ## Data Sources
 
 Forbes Billionaires Dataset: The dataset used in this analysis is the “forbes_2640_billionaires.csv” file which contains comprehensive information about the world’s billionaires as listed by Forbes. It is available here [Download Here](https://www.kaggle.com/datasets/sujalluhar/billionaires-listed-in-forbes/)
